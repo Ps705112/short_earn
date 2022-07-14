@@ -1,5 +1,5 @@
 {
-    "name": "Vaibhav Disk Converter Bot",
+    "name": "Vaibhav Short Link",
     "description": "Convert Others Mdisk Lnk to Yours using Mdisk API key",
     "logo": "https://i.ibb.co/XFcL3f4/unnamed.webp",
     "keywords": [
@@ -9,15 +9,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @botfather",
-            "value": "5184809588:AAHfC4IbaZiZngwEWx9vwUcKc4LU2uuGGqE"
+            "value": "5579083068:AAG8RXAEzE9MmQ_B6YvETHGx0i9OJow6N5k"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "19545146"
+            "value": "8742500"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "1c6f028b02e0639a01d88fe38cb67387 "
+            "value": "7ff1dec1b54f5e90d31d633a7729ad7b"
         }
     },
     "addons": [],
