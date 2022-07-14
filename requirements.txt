@@ -1,7 +1,3 @@
 pyrogram 1.4.15
 pytelegrambotapi 4.4.0
 requests 2.27.1
-flask 2.0.2
-pymongo 4.1.0
-pymongo[srv]
-TgCrypto 1.2.3
