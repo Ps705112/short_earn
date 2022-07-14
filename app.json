@@ -1,0 +1,35 @@
+{
+    "name": "Vaibhav Disk Converter Bot",
+    "description": "Convert Others Mdisk Lnk to Yours using Mdisk API key",
+    "logo": "https://i.ibb.co/XFcL3f4/unnamed.webp",
+    "keywords": [
+        "telegram",
+        "shortener"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token from @botfather",
+            "value": "5184809588:AAHfC4IbaZiZngwEWx9vwUcKc4LU2uuGGqE"
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "19545146"
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "1c6f028b02e0639a01d88fe38cb67387 "
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
